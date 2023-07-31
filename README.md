@@ -5,9 +5,7 @@ In this practical I have made Product Management system to create and update  pr
 
 In this, a user can create new product, update existing product and user can also filter product by productID & Product Name and sort it by productId, Product Name and Price.
 
-## Demo
-
-https://delicate-biscuit-661fdd.netlify.app/
+[Demo](https://pms-crud.netlify.app/)
 
 ## Screenshots :
 
