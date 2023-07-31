@@ -1,7 +1,7 @@
 
 # CRUD Opeartion 
 
-In this practical I have made Product Management system to create and update  product using JavaScript. 
+I have made Product Management system to create and update product using Vanilla JavaScript. 
 
 In this, a user can create new product, update existing product and user can also filter product by productID & Product Name and sort it by productId, Product Name and Price.
 
